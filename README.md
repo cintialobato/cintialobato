@@ -1,7 +1,6 @@
 ##  Olá! eu sou a Cintia 👋
 
-<p align="justify">Atualmente,trabalho como Avaliadora de Imóveis </p>    
-<p align="justify">Sou Aluna do Projeto 'Elas na Tech 2022' </p>
+<p> Trabalho como Avaliadora de Imóveis, atualmente estudando no Projeto 'Elas na Tech 2022'. </p>
 
 <div>
   <a href="https://github.com/cintialobato">
