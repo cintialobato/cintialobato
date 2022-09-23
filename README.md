@@ -1,4 +1,4 @@
-## Olá! eu sou a Cintia💬
+## Olá! eu sou a Cintia 👩🏽‍💻
 
 
 <p> Trabalho como Avaliadora de Imóveis, atualmente estudando no Projeto 'Elas na Tech 2022'. </p>
