@@ -1,5 +1,5 @@
 ## Olá! eu sou a Cintia💬 
-<p> Atualmente estudando no Projeto 'Elas na Tech 2022👩🏽‍💻'. </p>
+<p> Atualmente estudando no Projeto 'Elas na Tech 2022 👩🏽‍💻'. </p>
 <div>
   <a href="https://github.com/cintialobato">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=cintialobato&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
